@@ -1,7 +1,7 @@
 # Cisco ASA 5506-X Firewall Configuration on Packet Tracer
 
 ## Description
-This project showcases the configuration of the Cisco ASA 5506-X firewall using Cisco Packet Tracer. It demonstrates a full-access firewall setup without any restrictions, making it ideal for learning and simulation purposes. The configuration includes basic routing, NAT, access control lists (ACLs), and security zones to replicate real-world deployment scenarios.
+This project showcases the configuration of the Cisco ASA 5506-X firewall using Cisco Packet Tracer. It demonstrates a full-access firewall setup without any restrictions, making it ideal for learning and simulation purposes. The configuration includes basic routing, NO NAT,NO access control lists (ACLs), and security zones to replicate real-world deployment scenarios.
 
 ## Objectives
 - Configure a fully open ASA 5506-X firewall.
