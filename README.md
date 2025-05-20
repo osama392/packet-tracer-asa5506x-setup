@@ -40,4 +40,4 @@ Would you like me to prepare that too?
 
 
 
-![Network Methodology](websit/network-methodology.png)
+![Network Methodology](websit/pic/network-methodology.png)
