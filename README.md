@@ -36,3 +36,8 @@ If you want, I can also help you with instructions on how to download the projec
 
 Would you like me to prepare that too?
 
+
+
+
+
+![Network Methodology](websit/network-methodology.png)
